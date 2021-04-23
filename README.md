@@ -1,4 +1,4 @@
-### Hi, I'm Maria Ferro (Mary) 👋
+### Hi, I'm Maria Ferro (Mary)! 👋
 - 🔭 I’m currently working on Recepcionst;
 - 🌱 I’m currently learning: 
 - 💬 Ask me about: - 
