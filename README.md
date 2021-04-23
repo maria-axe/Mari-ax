@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Recepcionst;
+- 🌱 I’m currently learning: 
+- 💬 Ask me about: - 
+- 📫 How to reach me: (Site)
+
+
 
 <!--
 **Mari-ax/Mari-ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
