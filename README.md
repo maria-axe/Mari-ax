@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Recepcionst;
 - 🌱 I’m currently learning: 
 - 💬 Ask me about: - 
-- 📫 How to reach me: (Site)
+- 📫 How to reach me: mariakarinesparks@outlook.com
 
 
 
