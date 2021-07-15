@@ -1,8 +1,8 @@
 ### Hi, I'm Maria Ferro (Mary)! 👋
-- 🔭 I’m currently working on Recepcionst;
-- 🌱 I’m currently learning: 
-- 💬 Ask me about: - 
-- 📫 How to reach me: mariakarinesparks@outlook.com
+- 🔭 I’m currently working on Signativa
+- 🌱 I’m currently learning: Magento 1 e 2 
+- 💬 Ask me about: -
+- 📫 How to reach me: mariakarinesparks@outlook.com || 
 
 
 
