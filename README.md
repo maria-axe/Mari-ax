@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Signativa
 - 🌱 I’m currently learning: Magento 1 e 2 
 - 💬 Ask me about: -
-- 📫 How to reach me: mariakarinesparks@outlook.com || 
+- 📫 How to reach me: mariakarinesparks@outlook.com || https://mari-ax.github.io/portifolio/
 
 
 
