@@ -1,22 +1,24 @@
 ### Hi, I'm Maria Ferro (Mary)! 👋
-- 🔭 I’m currently working on Signativa
-- 🌱 I’m currently learning: Magento 1 e 2 
-- 💬 Ask me about: -
-- 📫 How to reach me: mariakarinesparks@outlook.com 
+- 🔭 Currently as a development intern at Signativa;
+- 🌱 I’m currently learning Front-end, Back-end and Magento;
+- 💬 Ask me about: Technology, books, astronomy and english;
+- 📫 How to reach me: mariakarinesparks@outlook.com
 
 
 
-<!--
-**Mari-ax/Mari-ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/Mari-ax">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mari-ax&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-ax&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-Here are some ideas to get you started:
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+</div>
