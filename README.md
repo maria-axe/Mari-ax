@@ -1,6 +1,6 @@
 ### Hi, I'm Maria Ferro (Mary)! 👋
 - 🔭 Currently as a development intern at Signativa;
-- 🌱 I’m currently learning Front-end, Back-end and Magento;
+- 🌱 I’m currently learning Front-end Magento;
 - 💬 Ask me about: Technology, books, astronomy and english;
 - 📫 How to reach me: mariakarinesparks@outlook.com
 
